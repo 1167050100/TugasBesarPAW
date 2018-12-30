@@ -71,7 +71,7 @@
 								<li><a href="gallery-post.html">Masjid Bandung Utara</a></li>
 							</ul>
 						</li> -->
-						<li><a href="#">Daftar Masjid</a></li>
+						<li><a href="/daftar_masjid">Daftar Masjid</a></li>
 						<li><a href="/event">Event</a></li>
 						<li><a href="/about">About</a></li>
 						<li><a href="/contact">Contact</a></li>

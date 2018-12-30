@@ -42,12 +42,12 @@
 								<li><a href="#"><i class="fa fa-instagram"></i></a></li>
 							</ul>
 						</div>
-						<div class="col-lg-6 col-md-6 col-sm-6 col-6 header-top-right no-padding">
-							<!--<ul>
+					<!--<div class="col-lg-6 col-md-6 col-sm-6 col-6 header-top-right no-padding">
+							<ul>
 								<li><a href="tel:+440 012 3654 896"><span class="lnr lnr-phone-handset"></span><span>+440 012 3654 896</span></a></li>
 								<li><a href="mailto:support@colorlib.com"><span class="lnr lnr-envelope"></span><span>support@colorlib.com</span></a></li>
-							</ul> -->
-						</div>
+							</ul>
+						</div>-->
 					</div>
 				</div>
 			</div>
@@ -71,6 +71,7 @@
 						<ul class="nav-menu">
 							<li class="menu-active"><a href="/">Home</a></li>
 							<li><a href="/daftar_masjid">Daftar Masjid</a></li>
+							<li><a href="/event">Event</a></li>
 							<!--<li class="menu-has-children"><a href="">Post Types</a>
 							<ul>
 								<li><a href="standard-post.html">Standard Post</a></li>
@@ -79,8 +80,7 @@
 								<li><a href="video-post.html">Video Post</a></li>
 								<li><a href="audio-post.html">Audio Post</a></li>
 							</ul>
-						</li> -->
-						<li><a href="/event">Event</a></li>
+						</li>-->
 						<li><a href="/about">About</a></li>
 						<li><a href="/contact">Contact</a></li>
 					</ul>
@@ -102,13 +102,13 @@
 		
 		<div class="site-main-container">
 			<!-- Start top-post Area -->
-			<section class="top-post-area pt-10">
-				<!--<div class="container no-padding">
+			<!--<section class="top-post-area pt-10">
+				<div class="container no-padding">
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="hero-nav-area">
-								<h1 class="text-white">Image Post</h1>
-								<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span><a href="#">Post Types </a><span class="lnr lnr-arrow-right"></span><a href="image-post.html">Image Post </a></p>
+								<h1 class="text-white">Standard Post</h1>
+								<p class="text-white link-nav"><a href="index.html">Home </a>  <span class="lnr lnr-arrow-right"></span><a href="#">Post Types </a><span class="lnr lnr-arrow-right"></span><a href="standard-post.html">Standard Post </a></p>
 							</div>
 						</div>
 						<div class="col-lg-12">
@@ -117,8 +117,8 @@
 							</div>
 						</div>
 					</div>
-				</div> -->
-			</section>
+				</div>
+			</section> -->
 			<!-- End top-post Area -->
 			<!-- Start latest-post Area -->
 			<section class="latest-post-area pb-120">
@@ -127,41 +127,65 @@
 						<div class="col-lg-8 post-list">
 							<!-- Start single-post Area -->
 							<div class="single-post-wrap">
-								<div class="feature-img-thumb relative">
-									<div class="overlay overlay-bg"></div>
-									<img class="img-fluid" src="img/3.jpg" alt="">
-								</div>
 								<div class="content-wrap">
-									<ul class="tags mt-10">
-										<li><a href="/profile_masjid_pusdai">Masjid PUSDAI</a></li>
-									</ul>
-									<a href="/profile_masjid_pusdai">
-										<h3>Profile Masjid PUSDAI</h3>
+									<!--<ul class="tags">
+										<li><a href="#">Food Habit</a></li>
+									</ul>-->
+									<a href="#">
+										<h3>Daftar Masjid</h3>
 									</a>
 									<ul class="meta pb-20">
 										<li><a href="#"><span class="lnr lnr-user"></span>Admin</a></li>
 										<li><a href="#"><span class="lnr lnr-calendar-full"></span>28 Desember, 2018</a></li>
-										<li><a href="#"><span class="lnr lnr-bubble"></span>1 </a></li>
+										<li><a href="#"><span class="lnr lnr-bubble"></span>01 </a></li>
 									</ul>
 									<p>
-										Pusdai adalah lembaga dakwah di bawah naungan pemerintah Provinsi Jawa Barat. Pusdai singkatan dari Pusat Dakwah Islam dan dikenal dengan sebutan Pusdai Jabar.
+										<table border="2" cellpadding="10">
+        									<tr bgcolor="#00ff80">
+            									<td cellpadding ="10">NO</td>
+            										<td>Kab/Kota</td>
+            										<td>Kecamatan</td>
+            										<td>Nama Masjid</td>
+            										<td>ID Masjid</td>
+            										<td>Alamat</td>
+            										<td>Luas Bagunan</td>
+        									</tr>
+        									<tr>
+            									<td cellpadding ="10">1</td>
+            										<td>KOTA BANDUNG</td>
+            										<td>Regol</td>
+            										<td>Masjid Raya bandung</td>
+            										<td>01.1.13.20.11.0000</td>
+            										<td>Jl. Dalem Kaum No. 14 Alun-alun, Kec.Regol, Kota Bandung</td>
+            										<td>8.575 m2</td>
+        									</tr>
+        									<tr bgcolor="#00ff80">
+            									<td cellpadding ="10">2</td>
+            										<td>KOTA BANDUNG</td>
+            										<td>Cibeunying Kaler</td>
+            										<td>Masjid Pusdai</td>
+            										<td>01.3.13.20.18.000030</td>
+            										<td>Jl. Diponegoro No.63, Cihaur Geulis, Cibeunying Kaler, Kota Bandung</td>
+            										<td>4.670 m2</td>
+        									</tr>
+        									<td cellpadding ="10">3</td>
+            										<td>KOTA BANDUNG</td>
+            										<td>Batununggal	</td>
+            										<td>Masjid Trans Studio Bandung</td>
+            										<td>01.6.13.20.12.000087</td>
+            										<td>Jl. Gatot Subroto 289 Bandung</td>
+            										<td>1.800 m2</td>
 
-										Pusdai secara fisik adalah bangunan masjid –Masjid Pusdai Jabar. Namun sebagai lembaga, Pusdai adalah lembaga dakwah atas fasilitas Pemerintah Provinsi Jawa Barat untuk menjadi sentral pemrograman, pembinaan, dan pengembangan syiar Islam di wilayah Jawa Barat. Lembaga ini -–bersama Masjid At-Ta’wun Puncak Bogor dan Gedung Bale Asri-– berada di bawah kendali Yayasan Darma Asri (d/h Yayasan Dharma Bhakti), sebuah yayasan yang berada di bawah naungan Pemprov Jabar.
+ 
+    									</table>
 									</p>
-									<p>
-										Gagasan pendirian Pusdai tercetus tahun 1978. Keputusan pembangunannya sendiri baru disetujui pada era 80-an. Rumitnya faktor pembebasan tanah seluas 4,5 Ha membuat pembangunan Pusdai baru bisa dimulai sekitar tahun 1992. Setelah sempat terhenti beberapa kali, akhirnya pembangunan PUSDAI Jabar rampung pada tahun 1997.
-
-										Salah satu sarana unik yang ada di sini adalah galeri AI Qur’an Mushaf Sundawi yang berada di bagian timur bangunan. Al Qur’an ini dibuat dengan tulisan yang diperkaya dengan motif-motif Islami khas Sunda, seperti misalnya motif batik Sunda dan motif tanaman-tanaman khas Jawa Barat.
-									</p>
-								<!--<blockquote>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</blockquote> -->
-									<p>Selain menyelenggarakan berbagai aktivitas ibadah sejumlah kegiatan lainnya rutin diselenggarakan oleh Pusdai, di antaranya adalah kuliah dhuha tiap hari Ahad di ruang seminar (09.00-10.30 WIB), kursus berbagai bahasa asing, kajian tafsir, diskusi keislaman, dan seminar, dan sebagainya.
-									</p>
-									<blockquote>Source : https://pusdai.wordpress.com/profil-pusdai</blockquote>
-								<div class="navigation-wrap justify-content-between d-flex">
-									<a class="prev" href="/profile_masjid_mrb"><span class="lnr lnr-arrow-left"></span>Prev Post</a>
-									<a class="next" href="/profile_masjid_tsb">Next Post<span class="lnr lnr-arrow-right"></span></a>
-								</div>
-								
+								<!--<div class="navigation-wrap justify-content-between d-flex">
+									<a class="prev" href="#"><span class="lnr lnr-arrow-left"></span>Prev Post</a>
+									<a class="next" href="#">Next Post<span class="lnr lnr-arrow-right"></span></a>
+								</div>-->
+								<div class="load-more">
+												<a href="/daftar_masjid" class="primary-btn">Load More Posts</a>
+											</div>
 								<div class="comment-sec-area">
 									<div class="container">
 										<div class="row flex-column">
@@ -170,13 +194,13 @@
 												<div class="single-comment justify-content-between d-flex">
 													<div class="user justify-content-between d-flex">
 														<div class="thumb">
-															<img src="img/blog/blue.jpg" alt="">
+															<img src="img/blog/red.jpg" alt="">
 														</div>
 														<div class="desc">
-															<h5><a href="#">Diza</a></h5>
+															<h5><a href="#">Kikiw</a></h5>
 															<p class="date">December 28, 2018 at 3:12 pm </p>
 															<p class="comment">
-																Nice info gan ;))
+																Mantul
 															</p>
 														</div>
 													</div>
@@ -222,7 +246,7 @@
 														<a href="" class="btn-reply text-uppercase">reply</a>
 													</div>
 												</div>
-											</div> -->
+											</div>-->
 										</div>
 									</div>
 								</div>
@@ -428,26 +452,10 @@
 											<i class="fa fa-instagram" aria-hidden="true"></i>
 											<p>983 Followers</p>
 										</div>
-										<a href="#">Follow us</a>
+										<a href="#">Follow Us</a>
 									</li>
-									<!--<li class="d-flex justify-content-between align-items-center rs">
-										<div class="icons d-flex flex-row align-items-center">
-											<i class="fa fa-rss" aria-hidden="true"></i>
-											<p>983 Subscribe</p>
-										</div>
-										<a href="#">Subscribe</a>
-									</li>-->
 								</ul>
 							</div>
-
-							<div class="single-sidebar-widget maps-widget">
-								<h6 class="title">Lokasi</h6>
-									<ul class="maps-list">
-										<li class="d-flex justify-content-between align-items-center fb">
-											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.9207010259597!2d107.62369071412564!3d-6.900087195014161!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e7b394d93a91%3A0x6cd6a249b02f7!2sMasjid+Pusdai!5e0!3m2!1sid!2sid!4v1546090729106" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-										</li>
-									</ul>
-							</div>									
 						</div>
 					</div>
 				</div>
@@ -511,19 +519,19 @@
 				</div>
 			</div>
 			<div class="footer-bottom row align-items-center">
-				<p class="footer-text m-0 col-lg-8 col-md-12"> --><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-<!--Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> -->
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-				<!--<div class="col-lg-4 col-md-12 footer-social">
+				<p class="footer-text m-0 col-lg-8 col-md-12"><Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0.
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+ Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. </p>
+				<div class="col-lg-4 col-md-12 footer-social">
 					<a href="#"><i class="fa fa-facebook"></i></a>
 					<a href="#"><i class="fa fa-twitter"></i></a>
 					<a href="#"><i class="fa fa-dribbble"></i></a>
 					<a href="#"><i class="fa fa-behance"></i></a>
-				</div>-->
+				</div>
 			</div>
 		</div>
 	</footer>
-	<!-- End footer Area -->
+	End footer Area -->
 	<script src="js/vendor/jquery-2.2.4.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="js/vendor/bootstrap.min.js"></script>

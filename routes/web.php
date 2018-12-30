@@ -15,6 +15,10 @@ Route::get('/', function () {
     return view('index');
 });
 
+Route::get('/daftar_masjid', function () {
+    return view('daftar_masjid');
+});
+
 Route::get('/contact', function () {
     return view('contact');
 });

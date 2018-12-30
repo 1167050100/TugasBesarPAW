@@ -70,7 +70,7 @@
 					<nav id="nav-menu-container">
 						<ul class="nav-menu">
 							<li class="menu-active"><a href="/">Home</a></li>
-							<li><a href="#">Daftar Masjid</a></li>
+							<li><a href="/daftar_masjid">Daftar Masjid</a></li>
 						<!--<li class="menu-has-children"><a href="">Post Types</a>
 							<ul>
 								<li><a href="standard-post.html">Standard Post</a></li>
