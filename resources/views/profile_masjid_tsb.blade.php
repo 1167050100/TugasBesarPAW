@@ -176,7 +176,7 @@
 												<div class="single-comment justify-content-between d-flex">
 													<div class="user justify-content-between d-flex">
 														<div class="thumb">
-															<img src="img/blog/c1.jpg" alt="">
+															<img src="img/blog/pink.jpg" alt="">
 														</div>
 														<div class="desc">
 															<h5><a href="#">Guston</a></h5>

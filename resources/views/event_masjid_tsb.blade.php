@@ -129,14 +129,15 @@
 							<div class="single-post-wrap">
 								<div class="feature-img-thumb relative">
 									<div class="overlay overlay-bg"></div>
-									<img class="img-fluid" src="img/1.jpg" alt="">
+									<img class="img-fluid" src="img/event/tsb.jpg" alt="">
 								</div>
 								<div class="content-wrap">
 									<ul class="tags mt-10">
-										<li><a href="/profile_masjid_mrb">Masjid Raya Bandung</a></li>
+										<li><a href="/profile_masjid_tsb">Masjid Trans Studio Bandung</a></li>
 									</ul>
-									<a href="/profile_masjid_mrb">
-										<h3>Profile Masjid Raya Bandung</h3>
+									<a href="/profile_masjid_tsb">
+										<h3>Kajian islam (MT. NAZWA BANDUNG) #3
+											UST. Syam, UST. Yusman Gunara</h3>
 									</a>
 									<ul class="meta pb-20">
 										<li><a href="#"><span class="lnr lnr-user"></span>Admin</a></li>
@@ -144,24 +145,20 @@
 										<li><a href="#"><span class="lnr lnr-bubble"></span>1 </a></li>
 									</ul>
 									<p>
-										Masjid Raya Bandung berada di Alun-alun Bandung dekat ruas Jalan Asia-Afrika, pusat Kota Bandung. Lokasinya yang berada di pusat kota membuatnya begitu mudah untuk ditemukan. Tak jauh dari masjid ini, di ruas jalan yang sama berdiri megah Gedung Merdeka dan Hotel Preanger, dua bangunan yang begitu lekat dengan sejarah Konferensi Asia-Afrika tahun 1955. Ruas jalan antara Hotel Savoy Homann dan Gedung Asia-Afrika ini menjadi saksi bisu perjalanan para pemimpin negara negara Asia Afrika yang berjalan kaki dari Hotel Homman tempat mereka menginap ke lokasi konfrensi di Gedung Asia Afrika termasuk untuk sholat di Masjid Agung Bandung dan sebaliknya.
+										Amalan akhir manusia adalah penentu dan atas amalan itulah akan dibalas. Siapa yang beramal jelek lalu beralih beramal baik, maka ia dinilai sebagai orang yang bertaubat. Sebaliknya, siapa yang berpindah dari iman menjadi kufur, maka ia dianggap murtad.
 									</p>
 									<p>
-										Masjid Raya Bandung Jawa Barat sebelumnya bernama Masjid Agung didirikan pertama kali pada tahun 1812. Masjid Agung Bandung dibangun bersamaan dengan dipindahkannya pusat kota Bandung dari Krapyak, sekitar sepuluh kilometer selatan kota Bandung ke pusat kota sekarang. Masjid ini pada awalnya dibangun dengan bentuk bangunan panggung tradisional yang sederhana, bertiang kayu, berdinding anyaman bambu, beratap rumbia dan dilengkapi sebuah kolam besar sebagai tempat mengambil air wudhlu. Air kolam ini berfungsi juga sebagai sumber air untuk memadamkan kebakaran yang terjadi di daerah Alun-Alun Bandung pada tahun 1825.[1]
+										Akhir kehidupan husnul khatimah adalah dambaan bagi setiap muslim, lalu bagaimanakah kiat-kiat menggapai husnul khatimah? Apakah keutamaan meninggal dalam kondisi husnul khatimah?
 
-										Setahun setelah kebakaran, pada tahun 1826 dilakukan perombakkan terhadap bangunan masjid dengan mengganti dinding bilik bambu serta atapnya dengan bahan dari kayu. Perombakan dilakukan lagi tahun 1850 seiring pembangunan Jalan Groote Postweg (kini Jalan Asia Afrika). Masjid kecil tersebut mengalami perombakkan dan perluasan atas instruksi Bupati R.A Wiranatakusumah IV atap masjid diganti dengan genteng sedangkan didingnya diganti dengan tembok batu-bata.
 									</p>
+									<p>Yuk ikuti kajian bersama Ustadz Syamsuddin Nur ( Islam Itu Indah Trans TV) yang akan membahas tentang Istiqamah Untill Husnul Khatimah. Sabtu, 29 Desember 2018 pukul 09.00-11.00 di @masjidtrans Bandung. Selain itu ada juga Ustadz Yusman Gunara yang akan menyampaikan tausiyah inspiratif untuk kita semua.
+									</p>
+									<p>Jangan lupa ajak keluarga dan sahabat dekatmu ya!</p>
 								<!--<blockquote>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</blockquote> -->
-									<p>Kemegahan Masjid Agung Bandung waktu itu sampai-sampai di-abadikan dalam lukisan pelukis Inggris bernama W Spreat pada tahun 1852. Dari lukisan tersebut, terlihat atap limas besar bersusun tiga tinggi menjulang dan mayarakat menyebutnya dengan sebutan bale nyungcung. Kemudian bangunan masjid kembali mengalami perubahan pada tahun 1875 dengan penambahan pondasi dan pagar tembok yang mengelilingi masjid.[2]
-
-									Seiring perkembangan zaman, masyarakat Bandung menjadikan masjid ini sebagai pusat kegiatan keagamaan yang melibatkan banyak umat seperti pengajian, perayaan Muludan, Rajaban atau peringatan hari besar Islam lain bahkan digunakan sebagai tempat dilangsungkan akad nikah. Sehingga pada tahun 1900 untuk melengkapinya sejumlah perubahan pun dilakukan seperti pembuatan mihrab dan pawestren (teras di samping kiri dan kanan).
-
-									Kemudian pada tahun 1930, perombakan kembali dilakukan dengan membangun pendopo sebagai teras masjid serta 	pembangunan dua buah menara pada kiri dan kanan bangunan dengan puncak menara yang berbentuk persis seperti bentuk atap masjid sehingga semakin mempercatik tampilan masjid. Konon bentuk seperti ini merupakan bentuk terakhir Masjid Agung Bandung dengan kekhasan atap berbentuk nyungcung.
-									</p>
-									<blockquote>Source : https://id.wikipedia.org/wiki/Masjid_Raya_Bandung</blockquote>
+									<blockquote>Source : https://www.instagram.com/p/Br1PrgSFDgZ/</blockquote>
 								<div class="navigation-wrap justify-content-between d-flex">
-									<a class="prev" href="/profile_masjid_tsb"><span class="lnr lnr-arrow-left"></span>Prev Post</a>
-									<a class="next" href="/profile_masjid_pusdai">Next Post<span class="lnr lnr-arrow-right"></span></a>
+									<a class="prev" href="/event_masjid_pusdai"><span class="lnr lnr-arrow-left"></span>Prev Post</a>
+									<a class="next" href="/event_masjid_mrb">Next Post<span class="lnr lnr-arrow-right"></span></a>
 								</div>
 								
 								<div class="comment-sec-area">
@@ -172,10 +169,10 @@
 												<div class="single-comment justify-content-between d-flex">
 													<div class="user justify-content-between d-flex">
 														<div class="thumb">
-															<img src="img/blog/red.jpg" alt="">
+															<img src="img/blog/pink.jpg" alt="">
 														</div>
 														<div class="desc">
-															<h5><a href="#">Kikiw</a></h5>
+															<h5><a href="#">Guston</a></h5>
 															<p class="date">December 28, 2018 at 3:12 pm </p>
 															<p class="comment">
 																Nice info gan ;))
@@ -446,10 +443,10 @@
 								<h6 class="title">Lokasi</h6>
 									<ul class="maps-list">
 										<li class="d-flex justify-content-between align-items-center fb">
-											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.7394352079127!2d107.60407371412585!3d-6.921720694998852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e625bd2312d5%3A0xfc2c9204afbcbb9f!2sMasjid+Raya+Bandung!5e0!3m2!1sid!2sid!4v1546089740355" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.7038188064816!2d107.63323911412581!3d-6.9259634949958135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e7d8683ac67f%3A0x23ea404d0be9684a!2sMasjid+Agung+Trans+Studio+Bandung!5e0!3m2!1sid!2sid!4v1546092632430" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 										</li>
 									</ul>
-							</div>							
+							</div>									
 						</div>
 					</div>
 				</div>

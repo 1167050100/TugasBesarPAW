@@ -38,3 +38,15 @@ Route::get('/profile_masjid_pusdai', function () {
 Route::get('/profile_masjid_tsb', function () {
     return view('profile_masjid_tsb');
 });
+
+Route::get('/event_masjid_mrb', function () {
+    return view('event_masjid_mrb');
+});
+
+Route::get('/event_masjid_pusdai', function () {
+    return view('event_masjid_pusdai');
+});
+
+Route::get('/event_masjid_tsb', function () {
+    return view('event_masjid_tsb');
+});

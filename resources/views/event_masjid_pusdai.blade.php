@@ -129,14 +129,14 @@
 							<div class="single-post-wrap">
 								<div class="feature-img-thumb relative">
 									<div class="overlay overlay-bg"></div>
-									<img class="img-fluid" src="img/1.jpg" alt="">
+									<img class="img-fluid" src="img/event/pusdai.jpg" alt="">
 								</div>
 								<div class="content-wrap">
 									<ul class="tags mt-10">
-										<li><a href="/profile_masjid_mrb">Masjid Raya Bandung</a></li>
+										<li><a href="/event_masjid_pusdai">Masjid PUSDAI</a></li>
 									</ul>
-									<a href="/profile_masjid_mrb">
-										<h3>Profile Masjid Raya Bandung</h3>
+									<a href="/event_masjid_pusdai">
+										<h3>Profile Masjid PUSDAI</h3>
 									</a>
 									<ul class="meta pb-20">
 										<li><a href="#"><span class="lnr lnr-user"></span>Admin</a></li>
@@ -144,24 +144,26 @@
 										<li><a href="#"><span class="lnr lnr-bubble"></span>1 </a></li>
 									</ul>
 									<p>
-										Masjid Raya Bandung berada di Alun-alun Bandung dekat ruas Jalan Asia-Afrika, pusat Kota Bandung. Lokasinya yang berada di pusat kota membuatnya begitu mudah untuk ditemukan. Tak jauh dari masjid ini, di ruas jalan yang sama berdiri megah Gedung Merdeka dan Hotel Preanger, dua bangunan yang begitu lekat dengan sejarah Konferensi Asia-Afrika tahun 1955. Ruas jalan antara Hotel Savoy Homann dan Gedung Asia-Afrika ini menjadi saksi bisu perjalanan para pemimpin negara negara Asia Afrika yang berjalan kaki dari Hotel Homman tempat mereka menginap ke lokasi konfrensi di Gedung Asia Afrika termasuk untuk sholat di Masjid Agung Bandung dan sebaliknya.
+										Dalam menyemarakan milad PUSDAI Jawa Barat yang ke – 21. PUSDAI Jawa Barat Mengadakan nikah massal sebanyak 21 pasangan.
 									</p>
 									<p>
-										Masjid Raya Bandung Jawa Barat sebelumnya bernama Masjid Agung didirikan pertama kali pada tahun 1812. Masjid Agung Bandung dibangun bersamaan dengan dipindahkannya pusat kota Bandung dari Krapyak, sekitar sepuluh kilometer selatan kota Bandung ke pusat kota sekarang. Masjid ini pada awalnya dibangun dengan bentuk bangunan panggung tradisional yang sederhana, bertiang kayu, berdinding anyaman bambu, beratap rumbia dan dilengkapi sebuah kolam besar sebagai tempat mengambil air wudhlu. Air kolam ini berfungsi juga sebagai sumber air untuk memadamkan kebakaran yang terjadi di daerah Alun-Alun Bandung pada tahun 1825.[1]
+										Kepada warga masyarakat khususnya kota bandung yang akan mengikuti/berpartisipasi program ini datang saja langsung ke ADUM ( Administrasi Umum ) PUSDAI Jawa Barat yang terletak di Masjid PUSDAI Jawa Barat yang beralamatkan JL. Diponegoro No. 63. Serta lampirkan persyaratan yang telah kami tentukan di antaranya :
 
-										Setahun setelah kebakaran, pada tahun 1826 dilakukan perombakkan terhadap bangunan masjid dengan mengganti dinding bilik bambu serta atapnya dengan bahan dari kayu. Perombakan dilakukan lagi tahun 1850 seiring pembangunan Jalan Groote Postweg (kini Jalan Asia Afrika). Masjid kecil tersebut mengalami perombakkan dan perluasan atas instruksi Bupati R.A Wiranatakusumah IV atap masjid diganti dengan genteng sedangkan didingnya diganti dengan tembok batu-bata.
+										<p>*NA</p>
+										<p>*Foto copy KTP</p>
+										<p>*Foto copy KK</p>
+										<p>*Pas foto 3 X 4 = 4 – 4 X 6 = 4</p>
 									</p>
 								<!--<blockquote>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</blockquote> -->
-									<p>Kemegahan Masjid Agung Bandung waktu itu sampai-sampai di-abadikan dalam lukisan pelukis Inggris bernama W Spreat pada tahun 1852. Dari lukisan tersebut, terlihat atap limas besar bersusun tiga tinggi menjulang dan mayarakat menyebutnya dengan sebutan bale nyungcung. Kemudian bangunan masjid kembali mengalami perubahan pada tahun 1875 dengan penambahan pondasi dan pagar tembok yang mengelilingi masjid.[2]
-
-									Seiring perkembangan zaman, masyarakat Bandung menjadikan masjid ini sebagai pusat kegiatan keagamaan yang melibatkan banyak umat seperti pengajian, perayaan Muludan, Rajaban atau peringatan hari besar Islam lain bahkan digunakan sebagai tempat dilangsungkan akad nikah. Sehingga pada tahun 1900 untuk melengkapinya sejumlah perubahan pun dilakukan seperti pembuatan mihrab dan pawestren (teras di samping kiri dan kanan).
-
-									Kemudian pada tahun 1930, perombakan kembali dilakukan dengan membangun pendopo sebagai teras masjid serta 	pembangunan dua buah menara pada kiri dan kanan bangunan dengan puncak menara yang berbentuk persis seperti bentuk atap masjid sehingga semakin mempercatik tampilan masjid. Konon bentuk seperti ini merupakan bentuk terakhir Masjid Agung Bandung dengan kekhasan atap berbentuk nyungcung.
+									<p>Pelaksanaan nikahan massal ini jatuh pada tanggal 16 Desember 2018. Dan batas pendaftaran ditutup pada tanggal 12 Desember 2018. Untuk informasi selengkapannya bisa menghubungi panitia nikahan massal. Contact Person : 081320104248 ( Ustadz Dendi ) – 081394520723 ( H. Purwanto )
 									</p>
-									<blockquote>Source : https://id.wikipedia.org/wiki/Masjid_Raya_Bandung</blockquote>
+									<p>Demikian informasi ini kami sampaikan, atas perhatiannya kami ucapkan terima kasih
+									</p>
+									<blockquote>Source : http://pusdai.or.id/Milad/nikah/
+									</blockquote>
 								<div class="navigation-wrap justify-content-between d-flex">
-									<a class="prev" href="/profile_masjid_tsb"><span class="lnr lnr-arrow-left"></span>Prev Post</a>
-									<a class="next" href="/profile_masjid_pusdai">Next Post<span class="lnr lnr-arrow-right"></span></a>
+									<a class="prev" href="/event_masjid_mrb"><span class="lnr lnr-arrow-left"></span>Prev Post</a>
+									<a class="next" href="/event_masjid_tsb">Next Post<span class="lnr lnr-arrow-right"></span></a>
 								</div>
 								
 								<div class="comment-sec-area">
@@ -172,10 +174,10 @@
 												<div class="single-comment justify-content-between d-flex">
 													<div class="user justify-content-between d-flex">
 														<div class="thumb">
-															<img src="img/blog/red.jpg" alt="">
+															<img src="img/blog/blue.jpg" alt="">
 														</div>
 														<div class="desc">
-															<h5><a href="#">Kikiw</a></h5>
+															<h5><a href="#">Diza</a></h5>
 															<p class="date">December 28, 2018 at 3:12 pm </p>
 															<p class="comment">
 																Nice info gan ;))
@@ -446,10 +448,10 @@
 								<h6 class="title">Lokasi</h6>
 									<ul class="maps-list">
 										<li class="d-flex justify-content-between align-items-center fb">
-											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.7394352079127!2d107.60407371412585!3d-6.921720694998852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e625bd2312d5%3A0xfc2c9204afbcbb9f!2sMasjid+Raya+Bandung!5e0!3m2!1sid!2sid!4v1546089740355" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+											<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.9207010259597!2d107.62369071412564!3d-6.900087195014161!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e7b394d93a91%3A0x6cd6a249b02f7!2sMasjid+Pusdai!5e0!3m2!1sid!2sid!4v1546090729106" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 										</li>
 									</ul>
-							</div>							
+							</div>									
 						</div>
 					</div>
 				</div>

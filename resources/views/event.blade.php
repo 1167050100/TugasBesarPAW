@@ -135,12 +135,12 @@
 											<img class="img-fluid" src="img/event/mrb.jpg" alt="">
 										</div>
 										<ul class="tags">
-											<li><a href="#">[Masjid Raya Bandung]</a></li>
+											<li><a href="/event_masjid_mrb">Masjid Raya Bandung</a></li>
 										</ul>
 									</div>
 									<div class="col-lg-7 post-right">
-										<a href="image-post.html">
-											<h4>Kajian Fiqh Qurban di Masjid Raya Bandung</h4>
+										<a href="/event_masjid_mrb">
+											<h4>Kajian fiqih qurban di masjid Raya Bandung</h4>
 										</a>
 										<ul class="meta">
 											<li><a href="#"><span class="lnr lnr-user"></span>Admin</a></li>
@@ -159,11 +159,11 @@
 											<img class="img-fluid" src="img/event/pusdai.jpg" alt="">
 										</div>
 										<ul class="tags">
-											<li><a href="#">[Masjid Pusdai]r</a></li>
+											<li><a href="/event_masjid_pusdai">Masjid Pusdai</a></li>
 										</ul>
 									</div>
 									<div class="col-lg-7 post-right">
-										<a href="image-post.html">
+										<a href="/event_masjid_pusdai">
 											<h4>Nikah massal 21</h4>
 										</a>
 										<ul class="meta">
@@ -183,13 +183,13 @@
 											<img class="img-fluid" src="img/event/tsb.jpg" alt="">
 										</div>
 										<ul class="tags">
-											<li><a href="#">[Masjid TSB]</a></li>
+											<li><a href="/event_masjid_tsb">Masjid TSB</a></li>
 										</ul>
 									</div>
 									<div class="col-lg-7 post-right">
-										<a href="image-post.html">
-											<h4>KAJIAN ISLAM (MT. NAZWA BANDUNG) #3
-											UST. SYAM, UST. YUSMAN GUNARA</h4>
+										<a href="/event_masjid_tsb">
+											<h4>Kajian islam (MT. NAZWA BANDUNG) #3
+											UST. Syam, UST. Yusman Gunara</h4>
 										</a>
 										<ul class="meta">
 											<li><a href="#"><span class="lnr lnr-user"></span>Admin</a></li>
@@ -506,7 +506,7 @@
 		</div>
 		
 		<!-- start footer Area -->
-		<footer class="footer-area section-gap">
+		<!--<footer class="footer-area section-gap">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-3 col-md-6 single-footer-widget">
@@ -560,9 +560,10 @@
 					</div>
 				</div>
 				<div class="footer-bottom row align-items-center">
-					<p class="footer-text m-0 col-lg-8 col-md-12"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+					<p class="footer-text m-0 col-lg-8 col-md-12">
+
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+ Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. </p>
 					<div class="col-lg-4 col-md-12 footer-social">
 						<a href="#"><i class="fa fa-facebook"></i></a>
 						<a href="#"><i class="fa fa-twitter"></i></a>
@@ -571,7 +572,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					</div>
 				</div>
 			</div>
-		</footer>
+		</footer> -->
 		<!-- End footer Area -->
 		<script src="js/vendor/jquery-2.2.4.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>

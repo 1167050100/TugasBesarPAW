@@ -180,18 +180,18 @@
 											<img class="img-fluid" src="img/event/mrb.jpg" alt="">
 										</div>
 										<ul class="tags">
-											<li><a href="#">Masjid Raya Bandung</a></li>
+											<li><a href="/event_masjid_mrb">Masjid Raya Bandung</a></li>
 										</ul>
 									</div>
 									<div class="col-lg-7 post-right">
 										<a href="image-post.html">
-											<li> <a href="/MesjidRayaBandung"> Kajian Fiqh Qurban di Masjid Raya Bandung </a></li>
+											<li> <a href="/event_masjid_mrb"> Kajian Fiqh Qurban di Masjid Raya Bandung </a></li>
 										</a>
 
 										<ul class="meta">
 											<li><a href="#"><span class="lnr lnr-user"></span>Admin</a></li>
 											<li><a href="#"><span class="lnr lnr-calendar-full"></span>18 Agustus, 2017</a></li>
-											<li><a href="#"><span class="lnr lnr-bubble"></span>0 Comments</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span>1 Comments</a></li>
 										</ul>
 										<p class="excert">
 											MRB - Kuliah duha di Masjid Raya Bandung Provinsi Jawa Barat rutin dilaksanakan setiap hari Sabtu, mulai pukul 8.00 WIB. Pada Sabtu (19/8/2017) besok, materi kuliah "Kajian Fiqh Qurban" yang akan disampaikan...
@@ -205,17 +205,17 @@
 											<img class="img-fluid" src="img/event/pusdai.jpg" alt="">
 										</div>
 										<ul class="tags">
-											<li><a href="#">Masjid Pusdai</a></li>
+											<li><a href="/event_masjid_pusdai">Masjid Pusdai</a></li>
 										</ul>
 									</div>
 									<div class="col-lg-7 post-right">
 										<a href="image-post.html">
-											<li> <a href="3"> Nikah massal 21 </a></li>
+											<li> <a href="/event_masjid_pusdai"> Nikah massal 21 </a></li>
 										</a>
 										<ul class="meta">
 											<li><a href="#"><span class="lnr lnr-user"></span>Admin</a></li>
 											<li><a href="#"><span class="lnr lnr-calendar-full"></span>16 Desember, 2018</a></li>
-											<li><a href="#"><span class="lnr lnr-bubble"></span>0 Comments</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span>1 Comments</a></li>
 										</ul>
 										<p>
 											PUSDAI - Dalam menyemarakan milad PUSDAI Jawa Barat yang ke – 21. PUSDAI Jawa Barat Mengadakan nikah massal sebanyak...
@@ -229,18 +229,18 @@
 											<img class="img-fluid" src="img/event/tsb.jpg" alt="">
 										</div>
 										<ul class="tags">
-											<li><a href="#">Masjid TSB</a></li>
+											<li><a href="/event_masjid_tsb">Masjid TSB</a></li>
 										</ul>
 									</div>
 									<div class="col-lg-7 post-right">
 										<a href="image-post.html">
-											<li> <a href="/MesjidPusdai"> Kajian islam (MT. NAZWA BANDUNG) #3
+											<li> <a href="/event_masjid_tsb"> Kajian islam (MT. NAZWA BANDUNG) #3
 											UST. Syam, UST. Yusman Gunara </a></li>
 										</a>
 										<ul class="meta">
 											<li><a href="#"><span class="lnr lnr-user"></span>Admin</a></li>
 											<li><a href="#"><span class="lnr lnr-calendar-full"></span>29 Desember, 2018</a></li>
-											<li><a href="#"><span class="lnr lnr-bubble"></span>0 Comments</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span>1 Comments</a></li>
 										</ul>
 										<p>
 											Yuk ikuti kajian bersama Ustadz Syamsuddin Nur ( Islam Itu Indah Trans TV) yang akan membahas tentang...
@@ -272,7 +272,7 @@
 									</div>
 								</div> -->
 								<div class="load-more">
-									<a href="/image" class="primary-btn">Load More Posts</a>
+									<a href="/event" class="primary-btn">Load More Posts</a>
 								</div>
 							</div>
 							<!-- End latest-post Area -->

@@ -159,7 +159,7 @@
 									<blockquote>Source : https://pusdai.wordpress.com/profil-pusdai</blockquote>
 								<div class="navigation-wrap justify-content-between d-flex">
 									<a class="prev" href="/profile_masjid_mrb"><span class="lnr lnr-arrow-left"></span>Prev Post</a>
-									<a class="next" href="#">Next Post<span class="lnr lnr-arrow-right"></span></a>
+									<a class="next" href="/profile_masjid_tsb">Next Post<span class="lnr lnr-arrow-right"></span></a>
 								</div>
 								
 								<div class="comment-sec-area">
@@ -170,7 +170,7 @@
 												<div class="single-comment justify-content-between d-flex">
 													<div class="user justify-content-between d-flex">
 														<div class="thumb">
-															<img src="img/blog/c1.jpg" alt="">
+															<img src="img/blog/blue.jpg" alt="">
 														</div>
 														<div class="desc">
 															<h5><a href="#">Diza</a></h5>
