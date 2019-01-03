@@ -55,7 +55,7 @@
 				<div class="container">
 					<div class="row justify-content-between align-items-center">
 						<div class="col-lg-4 col-md-4 col-sm-12 logo-left no-padding">
-							<a href="index.html">
+							<a href="/">
 								<img class="img-fluid" src="img/logo.png" alt="">
 							</a>
 						</div>
@@ -83,6 +83,7 @@
 						<li><a href="/event">Event</a></li>
 						<li><a href="/about">About</a></li>
 						<li><a href="/contact">Contact</a></li>
+						<li><a href="/welcome">Login</a></li>
 					</ul>
 					</nav><!-- #nav-menu-container -->
 					<div class="navbar-right">
@@ -145,7 +146,7 @@
 										<ul class="meta">
 											<li><a href="#"><span class="lnr lnr-user"></span>Admin</a></li>
 											<li><a href="#"><span class="lnr lnr-calendar-full"></span>18 Agustus, 2017</a></li>
-											<li><a href="#"><span class="lnr lnr-bubble"></span>0 Comments</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span>1 Comments</a></li>
 										</ul>
 										<p class="excert">
 											MRB - Kuliah duha di Masjid Raya Bandung Provinsi Jawa Barat rutin dilaksanakan setiap hari Sabtu, mulai pukul 8.00 WIB. Pada Sabtu (19/8/2017) besok, materi kuliah "Kajian Fiqh Qurban" yang akan disampaikan...
@@ -169,7 +170,7 @@
 										<ul class="meta">
 											<li><a href="#"><span class="lnr lnr-user"></span>Admin</a></li>
 											<li><a href="#"><span class="lnr lnr-calendar-full"></span>16 Desember, 2018</a></li>
-											<li><a href="#"><span class="lnr lnr-bubble"></span>0 Comments</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span>1 Comments</a></li>
 										</ul>
 										<p>
 											PUSDAI - Dalam menyemarakan milad PUSDAI Jawa Barat yang ke – 21. PUSDAI Jawa Barat Mengadakan nikah massal sebanyak...
@@ -194,7 +195,7 @@
 										<ul class="meta">
 											<li><a href="#"><span class="lnr lnr-user"></span>Admin</a></li>
 											<li><a href="#"><span class="lnr lnr-calendar-full"></span>29 Desember, 2018</a></li>
-											<li><a href="#"><span class="lnr lnr-bubble"></span>0 Comments</a></li>
+											<li><a href="#"><span class="lnr lnr-bubble"></span>1 Comments</a></li>
 										</ul>
 										<p>
 											Yuk ikuti kajian bersama Ustadz Syamsuddin Nur ( Islam Itu Indah Trans TV) yang akan membahas tentang...

@@ -54,3 +54,26 @@ Route::get('/event_masjid_pusdai', function () {
 Route::get('/event_masjid_tsb', function () {
     return view('event_masjid_tsb');
 });
+
+Route::get('/welcome', function () {
+    return view('welcome');
+});
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+// ROUTES ADMIN
+Route::group(['middleware' => 'check-permission:admin'], function () {
+    Route::group(['prefix' => 'admin'], function () {
+    Route::get('/dashboard', 'AdminController@index')->name('admin.dashboard');
+    });
+});
+ 
+ 
+// ROUTES PENDAFTAR
+Route::group(['middleware' => 'check-permission:pendaftar'], function () {
+    Route::group(['prefix' => 'pendaftar'], function () {
+    Route::get('/dashboard', 'PendaftarController@index')->name('pendaftar.dashboard');
+ 
+    });
+});

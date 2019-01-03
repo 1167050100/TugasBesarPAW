@@ -49,7 +49,7 @@
 				<div class="container">
 					<div class="row justify-content-between align-items-center">
 						<div class="col-lg-4 col-md-4 col-sm-12 logo-left no-padding">
-							<a href="index.html">
+							<a href="/">
 								<img class="img-fluid" src="img/logo.png" alt="">
 							</a>
 						</div>
@@ -75,6 +75,7 @@
 						<li><a href="/event">Event</a></li>
 						<li><a href="/about">About</a></li>
 						<li><a href="/contact">Contact</a></li>
+						<li><a href="/welcome">Login</a></li>
 					</ul>
 					</nav><!-- #nav-menu-container -->
 					<div class="navbar-right">
